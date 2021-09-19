@@ -1,0 +1,28 @@
+{
+  "name": "binance-buy-script",
+  "version": "1.0.0",
+  "description": "script to buy crypto with binance.com",
+  "main": "index.js",
+  "dependencies": {
+    "ccxt": "^1.56.60",
+    "command-line-args": "^5.2.0",
+    "debug": "^4.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolcalmi/binance-buy-script.git"
+  },
+  "keywords": [
+    "binance",
+    "buy"
+  ],
+  "author": "-_-",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dolcalmi/binance-buy-script/issues"
+  },
+  "homepage": "https://github.com/dolcalmi/binance-buy-script#readme"
+}
